@@ -1,0 +1,10 @@
+body {
+    background-color:black
+}
+
+p {
+    font-style:normal;
+    font-size: xx-large;
+    color: white;
+    font-stretch: extra-condensed;
+}
