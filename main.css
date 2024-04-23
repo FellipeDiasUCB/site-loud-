@@ -8,3 +8,8 @@ p {
     color: white;
     font-stretch: extra-condensed;
 }
+.elemento {
+    background-image:url("IMGHTML/LOGOLOUD.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
